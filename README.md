@@ -21,7 +21,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angadsingh9784"  /></a> </p>
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidbitsjs&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angadsingh9784&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
 
 <br>
 
