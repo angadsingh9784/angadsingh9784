@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://repository-images.githubusercontent.com/194041170/739d6f00-986f-11e9-88a3-3b3d1008ba6e)
 
 <h1 align="center">Hi 👋, I'm Angad Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
