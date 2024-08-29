@@ -1,4 +1,5 @@
-![MasterHead](https://repository-images.githubusercontent.com/194041170/739d6f00-986f-11e9-88a3-3b3d1008ba6e)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FNalq&psig=AOvVaw2nzpKPBXCwPoXG3z2yCaN7&ust=1725050484579000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiV7v6Hm4gDFQAAAAAdAAAAABAf)
+
 
 <h1 align="center">Hi 👋, I'm Angad Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
