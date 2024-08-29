@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FNalq&psig=AOvVaw2nzpKPBXCwPoXG3z2yCaN7&ust=1725050484579000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiV7v6Hm4gDFQAAAAAdAAAAABAf)
+![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)
 
 
 <h1 align="center">Hi 👋, I'm Angad Singh</h1>
