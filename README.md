@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)
+![MasterHead](https://github.com/angadsingh9784/angadsingh9784/blob/main/linkidin_banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Angad Singh</h1>
