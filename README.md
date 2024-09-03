@@ -1,21 +1,43 @@
-# 💫 About Me:
-I’m currently working on Tableau Project<br>🌱 I’m currently learning SQL<br>💬 Ask me about SQL,React JS, Javascript and so on.<br>👨‍💻 All of my projects are available at https://github.com/angadsingh9784<br>📫 How to reach me angadsingh9784@gmail.com<br>⚡ Fun fact Atleast Octopuses have three hearts
-https://i.giphy.com/JWuBH9rCO2uZuHBFpm.webp
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FNalq&psig=AOvVaw2nzpKPBXCwPoXG3z2yCaN7&ust=1725050484579000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiV7v6Hm4gDFQAAAAAdAAAAABAf)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mnm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jjj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bbb) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/kjkj) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=angadsingh9784&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=angadsingh9784&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=angadsingh9784&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Angad Singh</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=angadsingh9784&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angadsingh9784&label=Profile%20views&color=0e75b6&style=flat" alt="angadsingh9784" /> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=angadsingh9784&icon=3&color=3)](https://visitcount.itsvg.in)
+- 🌱 I’m currently learning **JAVASCRIPT**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💬 Ask me about **Javascript**
+
+- 📫 How to reach me **angadsingh9784@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/angad-singh2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/angad-singh2001" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+
+
+
+
+
+## My Weapons 🌟
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angadsingh9784&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
+
+<br>
+<br>
+## Github Status 🏆
+
+<img  src="https://github-stats-lemon.vercel.app/api?username=angadsingh9784&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=angadsingh9784&theme=react" width="48%" >
+<br>
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=angadsingh9784&theme=react-dark)
+<br>
