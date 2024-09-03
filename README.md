@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m currently working on Tableau Project<br>🌱 I’m currently learning SQL<br>💬 Ask me about SQL,React JS, Javascript and so on.<br>👨‍💻 All of my projects are available at https://github.com/angadsingh9784<br>📫 How to reach me angadsingh9784@gmail.com<br>⚡ Fun fact Atleast Octopuses have three hearts
-
+https://i.giphy.com/JWuBH9rCO2uZuHBFpm.webp
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mnm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jjj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bbb) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/kjkj) 
