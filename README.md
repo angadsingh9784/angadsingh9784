@@ -1,6 +1,7 @@
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVzbHY4a28wNmk5ZjRmZmt2bmdrMWU2c2NucmhpYTAxNmR6MW9wdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.webp" alt="Image 1" style="width: 45%; min-width: 200px; height: auto;">
-   <div style="width: 45%; min-width: 200px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px;">
+    <img src="https://via.placeholder.com/300" alt="Image 1" style="width: 45%; min-width: 200px; height: auto;">
+    
+    <div style="width: 45%; min-width: 200px;">
         <h3>Project Overview</h3>
         <p>This project showcases my work on responsive design and image handling. It includes:</p>
         <ul>
@@ -10,8 +11,6 @@
         </ul>
         <a href="https://github.com/your-repo-link">View Project on GitHub</a>
     </div>
-
-
 </div>
 
 
